@@ -20,7 +20,7 @@ To test the "Wav2Lip-HD" model, follow these steps:
 1. Clone this repository and install requirements using following command (Make sure, Python and CUDA are already installed):
 
     ```
-    git clone https://github.com/saifhassan/Wav2Lip-HD.git
+    git clone https://github.com/yanseijiyan/Wav2Lip-HD.git
     cd Wav2Lip-HD
     pip install -r requirements.txt
     ```
